@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Sep 06 09:40:45 EDT 2019
+1.base=/home/darwin/Escritorio/ProjectsUdacityToUpload/xyz-reader-starter-code-master-master_Udacity_/xyz-reader-starter-code-master-master/XYZReader/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/home/darwin/Escritorio/ProjectsUdacityToUpload/xyz-reader-starter-code-master-master_Udacity_/xyz-reader-starter-code-master-master/XYZReader/build/intermediates/transforms/dexMerger/debug/0
+1.path=Rosario-Regular.ttf

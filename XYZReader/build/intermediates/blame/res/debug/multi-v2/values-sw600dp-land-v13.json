@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/darwin/Escritorio/ProjectsUdacityToUpload/xyz-reader-starter-code-master-master_Udacity_/xyz-reader-starter-code-master-master/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/darwin/Escritorio/ProjectsUdacityToUpload/xyz-reader-starter-code-master-master_Udacity_/xyz-reader-starter-code-master-master/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
+                    "from": {
+                        "startLines": "2,5,4,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "36,182,130,80",
+                        "endColumns": "43,54,51,49",
+                        "endOffsets": "75,232,177,125"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,99,154,206",
+                        "endColumns": "43,54,51,49",
+                        "endOffsets": "94,149,201,251"
+                    }
+                }
+            ]
+        }
+    ]
+}

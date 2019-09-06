@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/darwin/Escritorio/ProjectsUdacityToUpload/xyz-reader-starter-code-master-master_Udacity_/xyz-reader-starter-code-master-master/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/darwin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/c375c7ba40823c603118a84d30e22880/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/darwin/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/a8e93bb882612a60913dc5208ce07b89/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "488",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "665"
+                    }
+                },
+                {
+                    "source": "/home/darwin/Escritorio/ProjectsUdacityToUpload/xyz-reader-starter-code-master-master_Udacity_/xyz-reader-starter-code-master-master/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "88,36,146",
+                        "endColumns": "57,51,49",
+                        "endOffsets": "141,83,191"
+                    },
+                    "to": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "328,386,438",
+                        "endColumns": "57,51,49",
+                        "endOffsets": "381,433,483"
+                    }
+                }
+            ]
+        }
+    ]
+}

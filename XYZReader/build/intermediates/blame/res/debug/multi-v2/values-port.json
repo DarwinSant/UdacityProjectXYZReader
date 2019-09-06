@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/darwin/Escritorio/ProjectsUdacityToUpload/xyz-reader-starter-code-master-master_Udacity_/xyz-reader-starter-code-master-master/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/darwin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/c375c7ba40823c603118a84d30e22880/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
